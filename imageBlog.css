@@ -1,0 +1,26 @@
+body{
+	padding-top: 70px;
+	background: url("https://source.unsplash.com/KoXrC_TUXCM");
+}
+
+.navbar-default{
+	background: #609920;
+}
+.navbar-default .navbar-brand{
+	color: white;
+}.navbar-default .navbar-brand:hover{
+	color: yellow;
+}
+
+.navbar-default .navbar-nav li a{
+	color: white;
+}.navbar-default .navbar-nav li a:hover{
+	color: yellow;
+}
+.jumbotron{
+	color:#609920;
+	background: #eeeeee;
+}
+.jumbotron p{
+	color: #efec13;
+}
